@@ -18,7 +18,7 @@
 #define YOUTUBE_CHANNEL   "UCVP3cwbysoohuvQbSWN8RgA"                  //Youtube 频道ID
 #define YOUTUBE_APIKEY    "AIzaSyDVR3QM5-5Z3JihJOSB9-s-7IhnVq2V29k"   //Youtube APIKEY
 #define WEATHER_APIKEY    ""          //天气 APIKEY
-#define WEATHER_CITY      "101010100"                                 //天气 城市
+#define WEATHER_CITY      "101211104"                                 //天气 城市
 
 ////////////////////////////////配置区域--结束////////////////////////////////////
 
