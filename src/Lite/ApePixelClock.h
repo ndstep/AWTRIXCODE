@@ -17,7 +17,7 @@
 #define BILIBILI_UID      "298146460"                                 //B站用户ID
 #define YOUTUBE_CHANNEL   "UCVP3cwbysoohuvQbSWN8RgA"                  //Youtube 频道ID
 #define YOUTUBE_APIKEY    "AIzaSyDVR3QM5-5Z3JihJOSB9-s-7IhnVq2V29k"   //Youtube APIKEY
-#define WEATHER_APIKEY    "0430c46d7537403a9d6ee9822fb0cdaf"          //天气 APIKEY
+#define WEATHER_APIKEY    ""          //天气 APIKEY
 #define WEATHER_CITY      "101010100"                                 //天气 城市
 
 ////////////////////////////////配置区域--结束////////////////////////////////////
